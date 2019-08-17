@@ -26,11 +26,11 @@
 
 ---
 
-1.#### A user of the website will be able to view a banner upon opening the webise.
-2.#### View the showcase for various equipments.
-3.#### Find the contacts of the company.
-4.#### View our job openings in the careers section.
-5.#### Find the company location via google maps.
+1. A user of the website will be able to view a banner upon opening the webise.\
+2. View the showcase for various equipments.\
+3. Find the contacts of the company.\
+   4.View our job openings in the careers section.\
+   5.Find the company location via google maps.\
 
 ---
 
